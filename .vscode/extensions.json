@@ -1,0 +1,11 @@
+// {
+//   "recommendations": ["Vue.volar"]
+// }
+{
+  "recommendations": [
+    "Vue.volar", // Vue 3 推荐 Volar 插件
+    "esbenp.prettier-vscode", // Prettier
+    "dbaeumer.vscode-eslint", // ESLint
+    "streetsidesoftware.code-spell-checker" // 可选，拼写检查
+  ]
+}
